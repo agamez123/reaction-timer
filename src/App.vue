@@ -60,6 +60,7 @@ export default {
   text-align: center;
   padding: 10px 0;
   margin: 20px auto;
+  cursor: pointer;
 }
 
 .buttonPlay{
